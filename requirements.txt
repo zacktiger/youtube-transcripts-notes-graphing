@@ -1,0 +1,5 @@
+youtube-transcript-api>=1.0.0
+spacy>=3.7.0
+networkx>=3.2
+google-genai>=1.0.0
+rich>=13.7.0
