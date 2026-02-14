@@ -1,4 +1,3 @@
-Here’s a clean, professional but relaxed README you can paste directly into GitHub:
 
 🎓 YouTube Transcript → Knowledge Map
 
